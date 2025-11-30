@@ -122,7 +122,7 @@ http://localhost:3000
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 ### Backend Tests
 Run inside `/server`:
@@ -141,7 +141,7 @@ node_modules/
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 You can deploy:
 
@@ -152,7 +152,7 @@ The frontend must point to your hosted backend API.
 
 ---
 
-## 📜 License
+##  License
 
 This project is for academic use as part of a full-stack development coursework submission.
 
