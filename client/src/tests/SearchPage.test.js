@@ -7,7 +7,7 @@
 
 import React from "react";
 import { render, screen } from "@testing-library/react";
-import SearchPage from "./SearchPage";
+import SearchPage from "../pages/SearchPage";
 
 // -------------------------------------------------------------
 // Mock the SearchBar component
